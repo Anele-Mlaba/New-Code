@@ -1,0 +1,10 @@
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\bin\Debug\Mla_218063413.exe.config
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\bin\Debug\Mla_218063413.exe
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\bin\Debug\Mla_218063413.pdb
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\obj\Debug\Mla_218063413.Form1.resources
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\obj\Debug\Mla_218063413.Properties.Resources.resources
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\obj\Debug\Mla_218063413.csproj.GenerateResource.cache
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\obj\Debug\Mla_218063413.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\obj\Debug\Mla_218063413.exe
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\obj\Debug\Mla_218063413.pdb
+C:\Users\Windows 10 Pro\Desktop\Mla_218063413\Mla_218063413\obj\Debug\Mla_218063413.csprojAssemblyReference.cache
